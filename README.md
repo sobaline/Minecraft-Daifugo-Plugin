@@ -7,7 +7,6 @@ Minecraft（PaperMC）のマルチプレイサーバー上で、2〜6人で遊�
 <img width="2508" height="1424" alt="スクリーンショット 2026-11-16 143853" src="https://github.com/user-attachments/assets/81bb3ae0-b945-47f2-9080-e4e00cfe3228" />
 <img width="2536" height="1383" alt="スクリーンショット 2026-11-16 143917" src="https://github.com/user-attachments/assets/bdc35d05-5101-49cf-8c83-6d4a2a6baa5f" />
 
-*(※テーブルやカード選択画面のスクリーンショットを1〜2枚貼ると効果的です)*
 
 ## 使用技術・開発環境
 * **言語:** Java
