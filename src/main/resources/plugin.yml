@@ -1,0 +1,8 @@
+name: Daifugo
+version: '1.0-SNAPSHOT'
+main: me.daifugo.daifugo.Daifugo
+api-version: '1.21'
+commands:
+  daifugo:
+    description: 大富豪のメインコマンド
+    permission: daifugo.use
